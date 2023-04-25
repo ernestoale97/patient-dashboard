@@ -1,0 +1,30 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Ernesto",
+      "age": "26",
+      "appointments": [
+        {
+          "id": 1,
+          "date": "2022-04-26"
+        },
+        {
+          "id": 1,
+          "date": "2022-04-28"
+        }
+      ],
+      "bloodGroup": "O+",
+      "medicalConditions": [
+        {
+          "id": 1,
+          "denomination": "Allergic"
+        },
+        {
+          "id": 1,
+          "denomination": "Diabetic"
+        }
+      ]
+    }
+  ]
+}
